@@ -1,0 +1,132 @@
+E:\Новая папка (2)\Timer\Timer\bin\Debug\Timer.exe.config
+E:\Новая папка (2)\Timer\Timer\bin\Debug\Timer.exe
+E:\Новая папка (2)\Timer\Timer\bin\Debug\Timer.pdb
+E:\Новая папка (2)\Timer\Timer\bin\Debug\Timer.xml
+E:\Новая папка (2)\Timer\Timer\obj\Debug\Timer.vbprojResolveAssemblyReference.cache
+E:\Новая папка (2)\Timer\Timer\obj\Debug\Timer.Form1.resources
+E:\Новая папка (2)\Timer\Timer\obj\Debug\Timer.Resources.resources
+E:\Новая папка (2)\Timer\Timer\obj\Debug\Timer.vbproj.GenerateResource.Cache
+E:\Новая папка (2)\Timer\Timer\obj\Debug\Timer.exe
+E:\Новая папка (2)\Timer\Timer\obj\Debug\Timer.xml
+E:\Новая папка (2)\Timer\Timer\obj\Debug\Timer.pdb
+H:\Новая папка (2)\Timer\Timer\bin\Debug\Timer.exe.config
+H:\Новая папка (2)\Timer\Timer\obj\Debug\Timer.exe
+H:\Новая папка (2)\Timer\Timer\obj\Debug\Timer.xml
+H:\Новая папка (2)\Timer\Timer\obj\Debug\Timer.pdb
+H:\Новая папка (2)\Timer\Timer\bin\Debug\Timer.exe
+H:\Новая папка (2)\Timer\Timer\bin\Debug\Timer.pdb
+H:\Новая папка (2)\Timer\Timer\bin\Debug\Timer.xml
+H:\Новая папка (2)\Timer\Timer\obj\Debug\Timer.vbprojResolveAssemblyReference.cache
+H:\Новая папка (2)\Timer\Timer\obj\Debug\Timer.Form1.resources
+H:\Новая папка (2)\Timer\Timer\obj\Debug\Timer.Resources.resources
+H:\Новая папка (2)\Timer\Timer\obj\Debug\Timer.vbproj.GenerateResource.Cache
+H:\Новая папка (2)\Timer\Timer\bin\Debug\Interop.WMPLib.dll
+H:\Новая папка (2)\Timer\Timer\bin\Debug\AxInterop.WMPLib.dll
+H:\Новая папка (2)\Timer\Timer\obj\Debug\Interop.WMPLib.dll
+H:\Новая папка (2)\Timer\Timer\obj\Debug\AxInterop.WMPLib.dll
+H:\Новая папка (2)\Timer\Timer\obj\Debug\Timer.vbproj.ResolveComReference.cache
+E:\Projects .NET\Timer\Timer\bin\Debug\Timer.exe.config
+E:\Projects .NET\Timer\Timer\obj\Debug\Interop.WMPLib.dll
+E:\Projects .NET\Timer\Timer\obj\Debug\AxInterop.WMPLib.dll
+E:\Projects .NET\Timer\Timer\obj\Debug\Timer.vbproj.ResolveComReference.cache
+E:\Projects .NET\Timer\Timer\obj\Debug\Timer.exe
+E:\Projects .NET\Timer\Timer\obj\Debug\Timer.xml
+E:\Projects .NET\Timer\Timer\obj\Debug\Timer.pdb
+E:\Projects .NET\Timer\Timer\bin\Debug\Timer.exe
+E:\Projects .NET\Timer\Timer\bin\Debug\Timer.pdb
+E:\Projects .NET\Timer\Timer\bin\Debug\Timer.xml
+E:\Projects .NET\Timer\Timer\bin\Debug\Interop.WMPLib.dll
+E:\Projects .NET\Timer\Timer\bin\Debug\AxInterop.WMPLib.dll
+E:\Projects .NET\Timer\Timer\obj\Debug\Timer.vbprojResolveAssemblyReference.cache
+E:\Projects .NET\Timer\Timer\obj\Debug\Timer.Form1.resources
+E:\Projects .NET\Timer\Timer\obj\Debug\Timer.Resources.resources
+E:\Projects .NET\Timer\Timer\obj\Debug\Timer.vbproj.GenerateResource.Cache
+E:\Timer\Timer\bin\Debug\Timer.exe.config
+E:\Timer\Timer\obj\Debug\Interop.WMPLib.dll
+E:\Timer\Timer\obj\Debug\AxInterop.WMPLib.dll
+E:\Timer\Timer\obj\Debug\Timer.vbproj.ResolveComReference.cache
+E:\Timer\Timer\obj\Debug\Timer.exe
+E:\Timer\Timer\obj\Debug\Timer.xml
+E:\Timer\Timer\obj\Debug\Timer.pdb
+E:\Timer\Timer\bin\Debug\Timer.exe
+E:\Timer\Timer\bin\Debug\Timer.pdb
+E:\Timer\Timer\bin\Debug\Timer.xml
+E:\Timer\Timer\bin\Debug\Interop.WMPLib.dll
+E:\Timer\Timer\bin\Debug\AxInterop.WMPLib.dll
+E:\Timer\Timer\obj\Debug\Timer.vbprojResolveAssemblyReference.cache
+E:\Timer\Timer\obj\Debug\Timer.Form1.resources
+E:\Timer\Timer\obj\Debug\Timer.Resources.resources
+E:\Timer\Timer\obj\Debug\Timer.vbproj.GenerateResource.Cache
+E:\Timer\Timer\obj\Debug\Timer.Form2.resources
+H:\Timer\Timer\bin\Debug\Timer.exe.config
+H:\Timer\Timer\obj\Debug\Interop.WMPLib.dll
+H:\Timer\Timer\obj\Debug\AxInterop.WMPLib.dll
+H:\Timer\Timer\obj\Debug\Timer.vbproj.ResolveComReference.cache
+H:\Timer\Timer\obj\Debug\Timer.exe
+H:\Timer\Timer\obj\Debug\Timer.xml
+H:\Timer\Timer\obj\Debug\Timer.pdb
+H:\Timer\Timer\bin\Debug\Timer.exe
+H:\Timer\Timer\bin\Debug\Timer.pdb
+H:\Timer\Timer\bin\Debug\Timer.xml
+H:\Timer\Timer\bin\Debug\Interop.WMPLib.dll
+H:\Timer\Timer\bin\Debug\AxInterop.WMPLib.dll
+H:\Timer\Timer\obj\Debug\Timer.vbprojResolveAssemblyReference.cache
+H:\Timer\Timer\obj\Debug\Timer.Form1.resources
+H:\Timer\Timer\obj\Debug\Timer.Form2.resources
+H:\Timer\Timer\obj\Debug\Timer.Resources.resources
+H:\Timer\Timer\obj\Debug\Timer.vbproj.GenerateResource.Cache
+C:\Users\edrom\Desktop\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\edrom\Desktop\Timer\Timer\obj\Debug\Interop.WMPLib.dll
+C:\Users\edrom\Desktop\Timer\Timer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\edrom\Desktop\Timer\Timer\obj\Debug\Timer.vbproj.ResolveComReference.cache
+C:\Users\edrom\Desktop\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\edrom\Desktop\Timer\Timer\obj\Debug\Timer.xml
+C:\Users\edrom\Desktop\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\edrom\Desktop\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\edrom\Desktop\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\edrom\Desktop\Timer\Timer\bin\Debug\Timer.xml
+C:\Users\edrom\Desktop\Timer\Timer\bin\Debug\Interop.WMPLib.dll
+C:\Users\edrom\Desktop\Timer\Timer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\edrom\Desktop\Timer\Timer\obj\Debug\Timer.vbprojResolveAssemblyReference.cache
+C:\Users\edrom\Desktop\Timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\edrom\Desktop\Timer\Timer\obj\Debug\Timer.Form2.resources
+C:\Users\edrom\Desktop\Timer\Timer\obj\Debug\Timer.Resources.resources
+C:\Users\edrom\Desktop\Timer\Timer\obj\Debug\Timer.vbproj.GenerateResource.Cache
+C:\Users\edrom\Desktop\Timer\Timer\obj\Debug\Timer.Form3.resources
+E:\Developed\Projects .NET\Timer vol.2\Timer\bin\Debug\Timer.exe.config
+E:\Developed\Projects .NET\Timer vol.2\Timer\bin\Debug\Timer.exe
+E:\Developed\Projects .NET\Timer vol.2\Timer\bin\Debug\Timer.pdb
+E:\Developed\Projects .NET\Timer vol.2\Timer\bin\Debug\Timer.xml
+E:\Developed\Projects .NET\Timer vol.2\Timer\bin\Debug\Interop.WMPLib.dll
+E:\Developed\Projects .NET\Timer vol.2\Timer\bin\Debug\AxInterop.WMPLib.dll
+E:\Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.vbprojResolveAssemblyReference.cache
+E:\Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Interop.WMPLib.dll
+E:\Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\AxInterop.WMPLib.dll
+E:\Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.vbproj.ResolveComReference.cache
+E:\Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.Form1.resources
+E:\Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.Form2.resources
+E:\Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.Form3.resources
+E:\Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.Resources.resources
+E:\Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.vbproj.GenerateResource.Cache
+E:\Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.exe
+E:\Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.xml
+E:\Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.pdb
+E:\Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.Form4.resources
+E:\#Developed\Projects .NET\Timer vol.2\Timer\bin\Debug\Timer.exe.config
+E:\#Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Interop.WMPLib.dll
+E:\#Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\AxInterop.WMPLib.dll
+E:\#Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.vbproj.ResolveComReference.cache
+E:\#Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.exe
+E:\#Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.xml
+E:\#Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.pdb
+E:\#Developed\Projects .NET\Timer vol.2\Timer\bin\Debug\Timer.exe
+E:\#Developed\Projects .NET\Timer vol.2\Timer\bin\Debug\Timer.pdb
+E:\#Developed\Projects .NET\Timer vol.2\Timer\bin\Debug\Timer.xml
+E:\#Developed\Projects .NET\Timer vol.2\Timer\bin\Debug\Interop.WMPLib.dll
+E:\#Developed\Projects .NET\Timer vol.2\Timer\bin\Debug\AxInterop.WMPLib.dll
+E:\#Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.vbprojResolveAssemblyReference.cache
+E:\#Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.Form1.resources
+E:\#Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.Form2.resources
+E:\#Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.Form3.resources
+E:\#Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.Resources.resources
+E:\#Developed\Projects .NET\Timer vol.2\Timer\obj\Debug\Timer.vbproj.GenerateResource.Cache
